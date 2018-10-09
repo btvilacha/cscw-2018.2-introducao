@@ -46,10 +46,6 @@
 	        <label for="msg">Para assistir o tutorial sobre GitHub, clique <a href="https://youtu.be/neDiLHwXSVo" target="_blank">aqui</a>.</label>
 	    </div>
 	    <br>
-	    <div>
-	        <label for="msg">Para visualizar o grupo e seus respectivos repositórios, clique <a href="https://brunoarcoverdediniz.github.io/grupo01/grupo01.html" target="_blank">aqui</a>.</label>
-	    </div>
-	    <br>
 	    <div class="button">
 	        <button type="submit">Enviar</button>
 	    </div>
